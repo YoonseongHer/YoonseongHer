@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hello 👋, let me introduce myself.
+I'm data scientist
+
+## Technologies
+
+- Machine Learning
+- Deep Learning
+- API server Development
+
+## Domain of interest
+- Bio infomatics
+- NLP, chatbot
 
 <!--
 **YoonseongHer/YoonseongHer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
